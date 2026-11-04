@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I’m Joseph! 👋
 
-<!--
-**pezin16/pezin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst | Excel | SQL | Power BI | Python
 
-Here are some ideas to get you started:
+I’m an aspiring Data Analyst passionate about transforming raw data into meaningful insights that support business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a B.Sc. in Biochemistry from Imo State University, Owerri, and completed Data Analytics training at GIIT, Ikeja, Lagos, in 2025.
+
+🛠️ Technical Skills
+
+* Excel: Data cleaning, PivotTables, formulas, and dashboards
+* SQL: Queries, joins, aggregations, and data extraction
+* Power BI: Interactive dashboards and data visualization
+* Python: Pandas, data cleaning, and visualization
+
+📊 Projects
+
+* Nigerian Car Market Analysis
+* NRC Train Ticket Sales Analysis
+* Sales Performance Analysis
+
+🎓 Education
+
+* B.Sc. Biochemistry — Imo State University, 2012
+* Data Analytics Training — GIIT, 2025
+
+🎯 Career Goal
+
+I am seeking opportunities as a Junior Data Analyst, Reporting Analyst, or BI Analyst, including remote opportunities.
+
+📫 Connect with me
+
+* GitHub: https://github.com/pezin16
